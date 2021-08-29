@@ -1,0 +1,198 @@
+.wrapper {
+  margin: 120px 5% 0 5%;
+  display: grid;
+  grid-gap: 8px;
+  border: 1px solid black;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+}
+
+.bir-1,
+.bir-2,
+.bir-3,
+.bir-4,
+.bir-5,
+.bir-6,
+.bir-7,
+.bir-8,
+.bir-9,
+.bir-10,
+.bir-11,
+.bir-12,
+.bir-13,
+.bir-14,
+.bir-15,
+.bir-16,
+.bir-17 {
+  /* background-color: black; */
+}
+
+.bir-1 {
+  grid-row: 1/2;
+  grid-column: 1/3;
+  /* background-color: black; */
+}
+
+.bir-1 img {
+  width: 900px;
+  height: 400px;
+}
+
+.bir-2 {
+  grid-row: 2/4;
+  grid-column: 1/4;
+}
+
+.bir-2 img {
+  width: 500px;
+  height: 400px;
+}
+
+.bir-3 {
+  grid-row: 4/5;
+  grid-column: 1/2;
+}
+.bir-3 img {
+  width: 200px;
+  height: 300px;
+}
+
+.bir-4 {
+  grid-row: 1/2;
+  grid-column: 3/4;
+}
+
+.bir-4 img {
+  width: 300px;
+  height: 200px;
+}
+
+.bir-5 {
+  grid-row: 1/3;
+  grid-column: 4/6;
+}
+
+.bir-5 img {
+  width: 300px;
+  height: 250px;
+}
+
+.bir-6 {
+  grid-row: 3/4;
+  grid-column: 4/6;
+}
+
+.bir-6 img {
+  width: 200px;
+  height: 200px;
+}
+
+.bir-7 {
+  grid-row: 4/6;
+  grid-column: 2/4;
+}
+
+.bir-7 img {
+  width: 500px;
+  height: 400px;
+}
+
+.bir-8 {
+  grid-row: 4/5;
+  grid-column: 4/5;
+}
+
+.bir-8 img {
+  width: 200px;
+  height: 150px;
+}
+
+.bir-9 {
+  grid-row: 4/6;
+  grid-column: 5/6;
+}
+
+.bir-9 img {
+  width: 200px;
+  height: 150px;
+}
+
+.bir-10 {
+  grid-row: 5/6;
+  grid-column: 1/2;
+}
+.bir-10 img { 
+  width: 200px;
+  height: 200px;
+}
+
+.bir-11 {
+  grid-row: 5/7;
+  grid-column: 4/5;
+}
+.bir-11 img { 
+  width: 200px;
+  height: 200px;
+}
+
+.bir-12 {
+  grid-row: 6/7;
+  grid-column: 1/3;
+}
+
+.bir-12 img { 
+  width: 350px;
+  height: 300px;
+}
+
+.bir-13 {
+  grid-row: 6/7;
+  grid-column: 3/4;
+}
+
+.bir-13 img { 
+  width: 300px;
+  height: 200px;
+}
+
+.bir-14 {
+  grid-row: 6/7;
+  grid-column: 5/6;
+}
+
+.bir-14 img { 
+  width: 200px;
+  height: 150px;
+}
+
+.bir-15 {
+  grid-row: 7/8;
+  grid-column: 1/2;
+}
+
+.bir-15 img { 
+  width: 200px;
+  height: 100px;
+}
+
+.bir-16 {
+  grid-row: 7/8;
+  grid-column: 2/4;
+}
+.bir-16 img { 
+  width: 250px;
+  height: 200px;
+}
+
+.bir-17 {
+  grid-row: 7/8;
+  grid-column: 4/6;
+}
+.bir-17 img { 
+  width: 250px;
+  height: 200px;
+}
